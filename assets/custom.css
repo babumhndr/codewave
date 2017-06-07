@@ -1,0 +1,22 @@
+.transparent{
+	background: #fff;
+}
+.car_cap{
+	line-height: 2em;
+	font-size: 1.5em;
+
+}
+.car_tit{
+	font-size: 48px;
+	color:#0da3cf;
+}
+.f-left{
+	margin:40px;
+}
+
+.f-right{
+	margin-top: 80px;
+}
+.cap2{
+	font-size: 1.2em
+}
